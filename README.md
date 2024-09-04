@@ -1,6 +1,6 @@
 # SimracingCalculator
 
-Command line calculator app for Assetto Corsa Competizione
+Command line calculator app for Assetto Corsa Competizione (ACC)
 
 Features:
   - Calculate the fuel necessary to complete a race session.
